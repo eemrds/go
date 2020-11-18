@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"test/greetings"
+
+	greetings "github.com/eemrds/go/pay_with_go/greetings"
 )
 
 func main() {
